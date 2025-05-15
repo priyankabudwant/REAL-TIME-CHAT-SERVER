@@ -19,9 +19,13 @@ A simple yet powerful real-time chat application built with **Node.js**, **Expre
 ## 📁 Project Structure
 
 ├── public/
+
 │ └── index.html # Frontend chat interface
+
 ├── server.js # Express + Socket.IO server
+
 ├── package.json # Node.js dependencies
+
 └── README.md # Project documentation
 
 
