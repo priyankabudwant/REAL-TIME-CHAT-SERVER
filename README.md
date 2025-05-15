@@ -1,5 +1,17 @@
 # 💬 Real-Time Chat App
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: B K PRIYANKA
+
+INTERN ID: CT04DK48
+
+DOMAIN: BACKEND DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 A simple yet powerful real-time chat application built with **Node.js**, **Express**, and **Socket.IO**. This app allows multiple users to communicate in real-time through a shared chat interface.
 
 ![screenshot](https://via.placeholder.com/800x400.png?text=Real-Time+Chat+App)
