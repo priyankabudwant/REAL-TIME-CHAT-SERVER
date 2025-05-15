@@ -14,7 +14,9 @@ MENTOR : NEELA SANTOSH
 
 A simple yet powerful real-time chat application built with **Node.js**, **Express**, and **Socket.IO**. This app allows multiple users to communicate in real-time through a shared chat interface.
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Real-Time+Chat+App)
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/d4c11019-f196-49b8-9089-2e68e24edada)
 
 ---
 
