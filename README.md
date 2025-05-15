@@ -16,7 +16,16 @@ A simple yet powerful real-time chat application built with **Node.js**, **Expre
 
 OUTPUT:
 
+index- for chat login
+
 ![Image](https://github.com/user-attachments/assets/d4c11019-f196-49b8-9089-2e68e24edada)
+
+chat
+
+![Image](https://github.com/user-attachments/assets/6f2c70a0-75f4-4d6d-9766-4ff93be47c68)
+
+
+![Image](https://github.com/user-attachments/assets/88ef2eb8-917c-45c4-abb1-133e75ba8ee7)
 
 ---
 
