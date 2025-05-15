@@ -38,17 +38,19 @@ A simple yet powerful real-time chat application built with **Node.js**, **Expre
 ```bash
 git clone https://github.com/yourusername/chat-app.git
 cd chat-app
-
+```
 ## 2. install dependencies
 
 ```bash
 npm install
-
+```
 ## 3. Start the development server:
+```bash
 npm start
-
+```
 ## 4. Open your browser and navigate to:
+```bash
 http://localhost:3000
-
+```
 ## ⚙️ License
 This project is licensed under the MIT License - see the LICENSE file for details
